@@ -1,3 +1,4 @@
+<img width="1784" height="884" alt="barrier_option_simulation" src="https://github.com/user-attachments/assets/287adca5-458f-444f-9265-ad7054de0d02" />
 # barrier-options-pricing
 Extension of the Black-Scholes framework to path-dependent derivatives (Barrier Options) using Stochastic Calculus and PDEs.
 
@@ -24,7 +25,7 @@ It bridges the gap between pure probability theory and financial engineering, es
 ## Visualizations
 
 ### The Reflection Principle & Barrier Dynamics
-<img width="1000" height="600" alt="Reflection Principle Simulation" src="https://github.com/user-attachments/assets/ton-lien-image-ici" />
+<img width="1784" height="884" alt="barrier_option_simulation" src="https://github.com/user-attachments/assets/287adca5-458f-444f-9265-ad7054de0d02" />
 
 ## Project Structure
 
