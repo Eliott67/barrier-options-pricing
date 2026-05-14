@@ -26,7 +26,7 @@ It bridges the gap between pure probability theory and financial engineering, es
 ## Project Structure
 
 ```bash
-├── PRI_Barrier_Options_Report.pdf  # Full mathematical and quantitative report (
+├── PRI_Barrier_Options_Report.pdf  # Full mathematical and quantitative report 
 └── README.md
 
 ## 👥 Authors
