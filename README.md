@@ -20,7 +20,7 @@ It bridges the gap between pure probability theory and financial engineering, es
 
 ## Visualizations
 
-### The Reflection Principle & Barrier Dynamics
+### Asset Dynamics: Breaching the Barrier
 <img width="1784" height="884" alt="barrier_option_simulation" src="https://github.com/user-attachments/assets/287adca5-458f-444f-9265-ad7054de0d02" />
 
 ## Project Structure
