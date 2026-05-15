@@ -38,5 +38,3 @@ It bridges the gap between pure probability theory and financial engineering, es
 ---
 
 *Developed as part of the GMM Department curriculum at INSA Toulouse.*
-
-sachant que je vais également mettre une image en plein milieu et dans le repo juste le pdf du projet
